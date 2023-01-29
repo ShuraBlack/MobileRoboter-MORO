@@ -34,11 +34,3 @@ oder
 pytest task1
 ```
 im root des Repositories ausgeführt werden. 
-
-## Abgabe
-Bearbeiten Sie die Aufgabe mit ihrem Team auf Ihrem Fork in Branch `task1`. 
-Sobald Sie fertig sind, stellen Sie einen Merge Request gegen den Branch `master` im Abgabe-Repository.
-Die Abgabe gilt als bestanden, wenn die CI-Tests ohne Fehler durchlaufen und der Merge-Request akzeptiert wurde. 
-
-## Deadline
-Der Merge-Request muss bis zum 01. November 2022 um 23:59 erstellt worden sein.
