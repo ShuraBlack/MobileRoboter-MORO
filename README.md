@@ -1,6 +1,6 @@
 # MORO-Labor WiSe 2023
-# HTWG Konstanz
-# Professor Blaich
+HTWG Konstanz
+Professor Blaich
 
 Verwenden Sie für Funktionsaufrufe ausschließlich Parameter in SI-Einheiten. 
 Beispielsweise werden Entfernungen in Meter, Zeiten in Sekunden und Winkel in Radianten angegeben.
