@@ -1,11 +1,5 @@
 # 5. Verarbeitung von Sensorinformationen
 
-**Abgabe:** Erstellen Sie für die Bearbeitung einen Branch `task5` und implementieren Sie ihre Lösung in diesem Branch.
-Sobald Sie fertig sind, stellen Sie einen Merge-Request gegen den Branch `master`.
-Die Abgabe gilt als bestanden, wenn die CI-Tests ohne Fehler durchlaufen und der Merge-Request akzeptiert wurde.
-
-**Deadline:** Der Merge-Request muss bis zum 24. Januar 2023 um 23:59 erstellt worden sein.
-
 ## 5.1 Sensorbasierte Steuerung
 
 Das Ziel dieser Übung ist es, Sensordaten einzulesen, auszuwerten und den Roboter entsprechend zu steuern.
