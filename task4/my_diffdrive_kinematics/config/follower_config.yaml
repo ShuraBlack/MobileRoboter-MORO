@@ -1,0 +1,8 @@
+line_follower_node:
+  ros__parameters:
+    v_p: 0.1
+    v_max: 0.25
+    omega_max: 2.84
+    d_star: 0.5
+    k_v: 1.5
+    k_omega: 0.5
