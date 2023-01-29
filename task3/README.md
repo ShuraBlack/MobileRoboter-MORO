@@ -171,13 +171,3 @@ python -m pytest --disable-pytest-warnings
 ````
 
 Ignorieren Sie bei der Analyse der Ausgabe übersprungene Tests und Warnungen.
-
-## Abgabe
-
-Bearbeiten Sie die Aufgabe mit Ihrem Team auf Ihrem Fork in Branch `task3`.
-Sobald Sie fertig sind, stellen Sie einen Merge Request gegen den Branch `master` im Abgabe-Repository.
-Die Abgabe gilt als bestanden, wenn die CI-Tests ohne Fehler durchlaufen und der Merge-Request akzeptiert wurde.
-
-## Deadline
-
-Der Merge-Request muss bis zum 06. Dezember 2022 um 23:59 erstellt worden sein.
