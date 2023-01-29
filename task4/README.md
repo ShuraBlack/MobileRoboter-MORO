@@ -21,8 +21,6 @@ Außerdem werden Sie lernen, wie Sie in ROS2:
 Sobald Sie fertig sind, stellen Sie einen Merge-Request gegen den Branch `master`.
 Die Abgabe gilt als bestanden, wenn die CI-Tests ohne Fehler durchlaufen und der Merge-Request akzeptiert wurde.
 
-**Deadline:** Der Merge-Request muss bis zum 10. Januar 2023 um 23:59 erstellt worden sein.
-
 ## 4.1 Installation der Simulationsumgebung für den Turtlebot3-Roboter
 
 Für diese Aufgabe verwenden Sie die Simulation des Turtlebot3-Roboters im Gazebo-Simulator.
