@@ -104,8 +104,8 @@ class ProbabilisticDiffDrive(Node):
                          [delta_time * np.sin(yaw), 0],
                          [0, delta_time]])
 
-        S_xk1 = (F_xk @ self.S_xk @ F_xk.T) + (F_uk @ S_uk @ F_uk.T)
-        self.lastSigma = S_xk1
+        S_xk = (F_xk @ self.lastSigma @ F_xk.T) + (F_uk @ S_uk @ F_uk.T)
+        self.lastSigma = S_xk
 
         self.x = x + np.random.normal(self.k_d, self.k_d)
         self.y = y + np.random.normal(self.k_d, self.k_d)
