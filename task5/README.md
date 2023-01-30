@@ -102,9 +102,9 @@ In einem zweiten Schritt visualisieren Sie dann die Odometrie mit der entspreche
 Implementieren Sie in Ihrem ``my_basic_kinematics``-Package einen Node ``probabilistic_diffdrive`` der auf die Odometrie
 Daten aus der Simulation folgendes Rauschen addiert:
 
-* $`k_d = (0.02\,\text{m})^2 / 1\,\text{m}`$
-* $`k_θ = (5\,\text{Grad})^2 / 360\,\text{Grad}`$
-* $`k_{Drift} = (2\,\text{Grad})^2 / 1\,\text{m}`$
+* $`k_d = (0.02m)^2 / 1m`$
+* $`k_θ = (5Grad)^2 / 360Grad`$
+* $`k_Drift = (2Grad)^2 / 1m`$
 
 Zur Erläuterung der Parameter siehe Folien 5-23 bis 5-26.
 Publizieren Sie die Odometrie mit entsprechenden
